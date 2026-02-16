@@ -21,8 +21,7 @@ This board is a fully functional clone of the Arduino UNO, built from the ground
 * `/BOM`: Bill of Materials for component sourcing.
 
 ## 📸 Design Preview
-![3D Render of PCB](path-to-your-image.png)
-*(Note: Replace this with an actual screenshot of your 3D view from EasyEDA!)*
+Screenshot 2026-02-15 150159.png
 
 ## 🎓 Learning Objectives
 This project was developed to master:
