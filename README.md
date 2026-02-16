@@ -21,7 +21,7 @@ This board is a fully functional clone of the Arduino UNO, built from the ground
 * `/BOM`: Bill of Materials for component sourcing.
 
 ## 📸 Design Preview
-Screenshot 2026-02-15 150159.png
+https://github.com/AadiMohane05/Arduino-UNO/blob/main/Screenshot%202026-02-15%20150159.png
 
 ## 🎓 Learning Objectives
 This project was developed to master:
